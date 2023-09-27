@@ -8,4 +8,4 @@
 4. Tambahkan script dibawah ini Dengan asumsi bahwa script dijalankan setiap jam 00:35 
 ######    35 0 * * * /path/to/file/script.sh >> /tmp/cronjob.log 2>&1
 
-#### NOTE : Jika waktu cronjob di ubah sesuaikan juga pada timeout nya
+#### NOTE : Jika waktu cronjob di ubah sesuaikan juga pada timeout pada script di baris 32 dan 36

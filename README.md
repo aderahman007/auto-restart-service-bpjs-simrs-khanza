@@ -4,7 +4,7 @@
 1. letakan file script ini pada home/default user directory
 2. Buka terminal dan beri akses dengan perintah
 ```
-sudo chmod +X auto-restart-service-bpjs-simrs-khanza.sh
+sudo chmod +x auto-restart-service-bpjs-simrs-khanza.sh
 ```
 4. Buka terminal baru dan jalankan perintah di bawah
 ```

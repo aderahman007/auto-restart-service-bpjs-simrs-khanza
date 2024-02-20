@@ -16,3 +16,7 @@ crontab -e
 ```
 
 #### NOTE : Jika waktu cronjob di ubah sesuaikan juga pada timeout pada script di baris 32 dan 36
+
+# Support me
+Donation to give me a Gift   
+Saweria : https://saweria.co/aderahman007

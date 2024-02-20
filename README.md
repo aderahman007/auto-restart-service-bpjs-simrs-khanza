@@ -15,7 +15,9 @@ crontab -e
 35 0 * * * /path/to/file/script.sh >> /tmp/cronjob.log 2>&1
 ```
 
-#### NOTE : Jika waktu cronjob di ubah sesuaikan juga pada timeout pada script di baris 32 dan 36
+#### NOTE : 
+- Jika waktu cronjob di ubah sesuaikan juga pada timeout pada script di baris 32 dan 36
+- Testing dilakukan pada linux desktop cinnamon, jika anda menggunakan jenis desktop ubuntu lain maka sesuaikan perintah terminal nya *gnome-terminal*.
 
 # Support me
 Donation to give me a Gift   

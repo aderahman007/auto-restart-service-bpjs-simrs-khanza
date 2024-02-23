@@ -22,3 +22,10 @@ crontab -e
 # Support me
 Donation to give me a Gift   
 Saweria : https://saweria.co/aderahman007
+
+Follow me :  
+**Instagram** : [@aderahman_007](https://www.instagram.com/aderahman_007) || [@adeofficial007](https://www.instagram.com/adeofficial007)
+
+#### Script MIT Lisence
+Script ini bersifat **Open Source** siapa pun dapat menggunakan, mengembangkan dan berkontribusi.
+Dilarang keras untuk memperjual belikan/mengambil keuntungan dari script ini dalam bentuk apapun tanpa seizin Developper.
